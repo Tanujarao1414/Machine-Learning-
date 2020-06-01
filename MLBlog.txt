@@ -1,0 +1,20 @@
+My Explanation to Granny!
+
+"Machine Learning is the salt which you can add to all recipes". Machine Learning algorithms is used in almost all software products. 
+Machine learning is about extracting knowledge from data. It is a research field at the
+intersection of statistics, artificial intelligence and computer science, which is also
+known as predictive analytics or statistical learning. The application of machine
+learning methods has in recent years become ubiquitous in everyday life. From automatic
+recommendations of which movies to watch, to what food to order or which
+products to buy, to personalized online radio and recognizing your friends in your
+photos, many modern websites and devices have machine learning algorithms at their
+core. When you look at at complex websites like Facebook, Amazon or Netflix, it is very
+likely that every part of the website you are looking at contains multiple machine
+learning models.Outside of commercial applications, machine learning has had a tremendous influence
+on the way data driven research is done today. The ML tools 
+have been applied to diverse scientific questions such as understanding stars, finding
+distant planets, analyzing DNA sequences, and providing personalized cancer treatments.
+Your application doesn’t need to be as large-scale or world-changing as these examples
+in order to benefit from machine learning.
+
+ 
